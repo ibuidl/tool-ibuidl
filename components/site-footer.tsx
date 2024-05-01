@@ -8,12 +8,12 @@ export function SiteFooter() {
             <div className="w-full px-4 md:w-4/12">
               <div className="mb-2 text-center md:mb-0 md:text-left">
                 <a
-                  href="https://www.liwenkai.icu"
+                  href="https://www.kkdemian.com"
                   target="_blank"
                   className="text-blueGray-500 py-1 text-center text-sm font-semibold md:text-left"
                   rel="noreferrer"
                 >
-                  Copyright © 2023 Creative Li WenKai
+                  Copyright © 2024 kkdemian
                 </a>
               </div>
             </div>
