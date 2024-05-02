@@ -270,6 +270,70 @@ export const NavData: NavData[] = [
     ],
   },
   {
+    title: "Layer2",
+    items: [
+      {
+        title: "比特币L2 Watch",
+        desc: "比特币生态Layer2的所有项目和状态",
+        icon: "/icons/l2watch.png",
+        link: "https://l2.watch/",
+      },
+      {
+        title: "btceden",
+        desc: "探索比特币的 Layer 2 和整个生态系统",
+        icon: "/icons/btceden.svg",
+        link: "https://www.btceden.org/",
+      },
+      {
+        title: "ETH L2 进度和TVL",
+        desc: "以太坊生态的Layer2项目，观察TVL锁仓，每个L2的阶段以及Layer3项目。",
+        icon: "/icons/l2beat.jpeg",
+        link: "https://l2beat.com/scaling/summary",
+      },
+    ],
+  },
+  {
+    title: "GameFi",
+    items: [
+      {
+        title: "Redstone",
+        desc: "专为链上游戏和自治世界而全新构建的链，基于Op的底层和Mud的全链游戏协议",
+        icon: "/icons/redstone.jpeg",
+        link: "https://redstone.xyz/",
+      },
+      {
+        title: "Gala",
+        desc: "加密货币的娱乐之王，游戏、音乐、电影等娱乐设施的提供者",
+        icon: "/icons/gala.jpeg",
+        link: "https://gala.com/",
+      },
+      {
+        title: "Shrapnel",
+        desc: "是一款竞争激烈的 AAA 撤离射击游戏。",
+        icon: "/icons/shrapnel.jpeg",
+        link: "https://www.shrapnel.com/",
+      },
+      {
+        title: "Matr1x Fire",
+        desc: "Web3娱乐平台，提供一款Fire的FPS手机游戏",
+        icon: "/icons/fire.jpeg",
+        link: "https://matr1x.io/",
+      },
+      {
+        title: "Gods Unchained",
+        desc: "由Immutable主导的交易纸牌游戏",
+        icon: "/icons/gods.jpeg",
+        link: "https://godsunchained.com/",
+      },
+      {
+        title: "Mythical",
+        desc: "区块链和游戏交汇处的下一代游戏技术工作室。",
+        icon: "/icons/mythical.jpeg",
+        link: "https://mythicalgames.com/",
+      },
+    ],
+  },
+  {
     title: "加密新闻",
     items: [
       {
@@ -278,6 +342,19 @@ export const NavData: NavData[] = [
         desc: "一个加密货币信息网站",
         link: "https://cointelegraph.com/",
       },
+      {
+        icon: "/icons/bankless.jpeg",
+        title: "Bankless",
+        desc: "以Youtube和播客的形式在扩大加密货币的群体，涉及所有加密货币的话题",
+        link: "https://www.bankless.com/",
+      },
+      {
+        icon: "/icons/messari.jpeg",
+        title: "Messari",
+        desc: "专业加密货币研究机构和数据平台",
+        link: "https://messari.io/",
+      },
+
       {
         icon: "/icons/tree.jpg",
         title: "Tree of alpha",
