@@ -97,6 +97,12 @@ export const NavData: NavData[] = [
         link: "https://etfdb.com/themes/blockchain-etfs/",
       },
       {
+        icon: "/icons/growthepie.jpeg",
+        title: "Layer2的数据分析平台",
+        desc: "ETH生态L2的基本面和区块空间分析。一个是公共基金扶持的项目。",
+        link: "https://www.growthepie.xyz/",
+      },
+      {
         icon: "/icons/geckoterminal.png",
         title: "geckoterminal",
         desc: "EVM和Layer2链上数据",
@@ -330,6 +336,64 @@ export const NavData: NavData[] = [
         desc: "区块链和游戏交汇处的下一代游戏技术工作室。",
         icon: "/icons/mythical.jpeg",
         link: "https://mythicalgames.com/",
+      },
+    ],
+  },
+  {
+    title: "AI工具",
+    items: [
+      {
+        title: "Trendx",
+        desc: "一款用于 AI 驱动的 Web3 趋势跟踪和智能交易的一体化平台。",
+        icon: "/icons/trendx.jpeg",
+        link: "https://app.trendx.tech/",
+      },
+    ],
+  },
+  {
+    title: "优质作家",
+    items: [
+      {
+        title: "Paradigm",
+        desc: "币圈顶级加密资本的内容输出,用来观察行业和技术新趋势。",
+        icon: "/icons/paradigm.jpeg",
+        link: "https://www.paradigm.xyz/writing",
+      },
+      {
+        title: "V神",
+        desc: "ETH的创始人，币圈大佬，通过文章寻找财富密码。",
+        icon: "/icons/vitalik.jpeg",
+        link: "https://vitalik.eth.limo/",
+      },
+      {
+        title: "Chris Dixon",
+        desc: "A16Z顶级合伙人, 读、写、拥有此书的作者，web3忠实拥护者。",
+        icon: "/icons/cdixon.jpeg",
+        link: "https://cdixon.org/",
+      },
+      {
+        title: "Jacob Horne",
+        desc: "前Coinbase 员工，Jacob Horne 于 2020 年共同创立了 Zora，一个NFT的L2平台。",
+        icon: "/icons/jacob.jpeg",
+        link: "https://jacob.energy/index.html",
+      },
+      {
+        title: "A16Z Future",
+        desc: "A16Z旗下的内容平台，用来书写行业趋势以及投资标的的研究等。",
+        icon: "/icons/future.jpeg",
+        link: "https://future.com/",
+      },
+      {
+        title: "Varun Srinivasan",
+        desc: "去中心化网络 Farcaster的联合创始人，前cb、微软、yc员工。",
+        icon: "/icons/varunsrinivasan.jpeg",
+        link: "https://www.varunsrinivasan.com/writing/",
+      },
+      {
+        title: "Glassnode",
+        desc: "glassnode的研究报告，通过研报观察趋势和寻找新币的机会。",
+        icon: "/icons/glassnode.jpeg",
+        link: "https://insights.glassnode.com/",
       },
     ],
   },
