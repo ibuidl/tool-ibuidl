@@ -368,7 +368,7 @@ export const NavData: NavData[] = [
       {
         title: "Chris Dixon",
         desc: "A16Z顶级合伙人, 读、写、拥有此书的作者，web3忠实拥护者。",
-        icon: "/icons/cdixon.jpeg",
+        icon: "/icons/cdixon.png",
         link: "https://cdixon.org/",
       },
       {
@@ -442,6 +442,12 @@ export const NavData: NavData[] = [
         title: "bitscreener",
         desc: "加密货币热力图",
         link: "https://bitscreener.com/crypto-heat-maps",
+      },
+      {
+        icon: "/icons/avator.jpg",
+        title: "kkdemian的加密货币周报",
+        desc: "了解一些加密货币的最新趋势和寻找百倍密码的渠道",
+        link: "https://weekly.kkdemian.com/",
       },
     ],
   },
