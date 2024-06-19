@@ -43,6 +43,36 @@ export const NavData: NavData[] = [
         link: "https://coinmarketcap.com/",
       },
       {
+        icon: "/icons/cmc.jpeg",
+        title: "coinmarkets Today",
+        desc: "以柱状图的形式展示每日加密货币行情涨跌排行",
+        link: "https://coinmarkets.today/",
+      },
+      {
+        icon: "/icons/cmc.jpeg",
+        title: "加密货币ETF",
+        desc: "最好的加密货币ETF数据，涵盖了市面上几乎所有的品种。",
+        link: "https://www.justetf.com/en/how-to/invest-in-crypto.html",
+      },
+      {
+        icon: "/icons/micro.png",
+        title: "财经m平方- 全球宏观数据",
+        desc: "全球宏观成绩单，宏观表现，以及未来半年的预测，M平方关注的转折指标",
+        link: "https://sc.macromicro.me/macro",
+      },
+      {
+        icon: "/icons/micro.png",
+        title: "萨姆规则衰退指标",
+        desc: "当失业率的3个月平均值上升到过去12个月的最低值之上0.50个百分点时，就被认为是经济衰退的可能信号。",
+        link: "https://fred.stlouisfed.org/series/SAHMCURRENT",
+      },
+      {
+        icon: "/icons/golden.jpg",
+        title: "Golden",
+        desc: "加密货币的维基百科",
+        link: "https://golden.com/home",
+      },
+      {
         icon: "/icons/tree.jpg",
         title: "Tree of alpha",
         desc: "最快的加密信息索引平台",
@@ -95,6 +125,12 @@ export const NavData: NavData[] = [
         title: "公链的链上日活数据",
         desc: "ETH, BTC, SOL, SUI, NEAR等公链的活跃地址和钱包",
         link: "https://app.artemis.xyz/chains",
+      },
+      {
+        icon: "/icons/bubblemaps.png",
+        title: "EVM和SOL系列的链上数据",
+        desc: "支持以泡泡的形式连接每一个巨鲸，是etherscan的持仓排行的另一种。",
+        link: "https://app.bubblemaps.io/eth/",
       },
       {
         icon: "/icons/vettafi.jpeg",
@@ -155,6 +191,18 @@ export const NavData: NavData[] = [
         title: "cryptofees",
         desc: "加密货币每日费用排行",
         link: "https://cryptofees.info/",
+      },
+      {
+        icon: "/icons/baibaoxiang.jpeg",
+        title: "币圈百宝箱",
+        desc: "一个快速查询项目的工具，非常丰富的资料库，包含：公链、空投交互、项目任务、铭文等",
+        link: "https://docs.google.com/spreadsheets/u/0/d/1WWqbgh6_Ph9nOu23OWACPD4VyuJmLZNNpK0zp9yRmQY/htmlview?pli=1#",
+      },
+      {
+        icon: "/icons/sms.png",
+        title: "短信在线接码平台",
+        desc: "全直接短信接收，方便注册小号用。",
+        link: "https://receive-smss.com/",
       },
       {
         icon: "/icons/cryptoslam.jpeg",
@@ -249,6 +297,12 @@ export const NavData: NavData[] = [
         title: "Rust语言圣经",
         desc: "一份高质量 Rust 教程",
         link: "https://course.rs",
+      },
+      {
+        icon: "/icons/cookbook.jpg",
+        title: "cookbook - 快速复制EVM合约的平台",
+        desc: "里面涵盖了UNI v4、chainlink、zircuit、base等主流项目的合约。",
+        link: "https://www.cookbook.dev/",
       },
       {
         icon: "/icons/solidity.svg",
@@ -380,6 +434,12 @@ export const NavData: NavData[] = [
         icon: "/icons/indiebuidl.jpeg",
         link: "https://www.indiebuidl.com/",
       },
+      {
+        title: "annas archive",
+        desc: "人类历史上最大的真正开放图书馆。",
+        icon: "/icons/annas.png",
+        link: "https://annas-archive.org/",
+      },
     ],
   },
   {
@@ -495,6 +555,7 @@ export const NavData: NavData[] = [
         icon: "/icons/vitalik.jpeg",
         link: "https://vitalik.eth.limo/",
       },
+      //
       {
         title: "Chris Dixon",
         desc: "A16Z顶级合伙人, 读、写、拥有此书的作者，web3忠实拥护者。",
@@ -565,6 +626,18 @@ export const NavData: NavData[] = [
         title: "美联储数据库 - FOMC",
         desc: "Fed以及各种宏观、利率数据",
         link: "https://ocmacro.com/fed",
+      },
+      {
+        icon: "/icons/cmc.jpeg",
+        title: "加密货币ETF",
+        desc: "最好的加密货币ETF数据，涵盖了市面上几乎所有的品种。",
+        link: "https://www.justetf.com/en/how-to/invest-in-crypto.html",
+      },
+      {
+        icon: "/icons/micro.png",
+        title: "财经m平方- 全球宏观数据",
+        desc: "全球宏观成绩单，宏观表现，以及未来半年的预测，M平方关注的转折指标",
+        link: "https://sc.macromicro.me/macro",
       },
       {
         icon: "/icons/wu.svg",
