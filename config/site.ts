@@ -55,6 +55,12 @@ export const NavData: NavData[] = [
         link: "https://alternative.me/crypto/fear-and-greed-index/",
       },
       {
+        icon: "/icons/nomos.jpg",
+        title: "Nomos Labs",
+        desc: "是一家专注于 Web3 生态系统的孵化器，旨在支持和培育创新和前瞻性的项目。",
+        link: "https://mirror.xyz/0xBfB7A25AE4709F3f4363024F9d2a9C6A4379D4d0",
+      },
+      {
         icon: "/icons/artemis.jpeg",
         title: "公链的链上日活数据",
         desc: "ETH, BTC, SOL, SUI, NEAR等公链的活跃地址和钱包",
@@ -260,7 +266,13 @@ export const NavData: NavData[] = [
         icon: "/icons/defillama.jpeg",
         title: "EVM所有主网和测试网",
         desc: "ChainList 是 EVM 网络的列表。可以查看 Chain ID 和 Network ID，从而连接到正确的链。",
-        link: "https://chainlist.org//",
+        link: "https://chainlist.org/",
+      },
+      {
+        icon: "/icons/sol.jpeg",
+        title: "Solana中文开发教程",
+        desc: "Solana中文开发教程旨在让更多的中文Solana开发者更好地上手在Solana上进行开发。",
+        link: "https://www.solanazh.com/",
       },
     ],
   },
@@ -527,7 +539,7 @@ export const NavData: NavData[] = [
       {
         icon: "/icons/bankless.jpeg",
         title: "Bankless",
-        desc: "以Youtube和播客的形式在扩大加密货币的群体，涉及所有加密货币的话题",
+        desc: "以Youtube和播客的形式在扩大加密货币的群体，付费会员值得拥有。",
         link: "https://www.bankless.com/",
       },
       {
@@ -536,12 +548,23 @@ export const NavData: NavData[] = [
         desc: "专业加密货币研究机构和数据平台",
         link: "https://messari.io/",
       },
-
       {
         icon: "/icons/tree.jpg",
         title: "Tree of alpha",
         desc: "最快的加密信息索引平台",
         link: "https://news.treeofalpha.com/",
+      },
+      {
+        icon: "/icons/nomos.jpg",
+        title: "Nomos Labs",
+        desc: "是一家专注于 Web3 生态系统的孵化器，旨在支持和培育创新和前瞻性的项目。",
+        link: "https://mirror.xyz/0xBfB7A25AE4709F3f4363024F9d2a9C6A4379D4d0",
+      },
+      {
+        icon: "/icons/ocmacro.jpeg",
+        title: "美联储数据库 - FOMC",
+        desc: "Fed以及各种宏观、利率数据",
+        link: "https://ocmacro.com/fed",
       },
       {
         icon: "/icons/wu.svg",
