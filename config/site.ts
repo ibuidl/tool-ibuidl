@@ -269,6 +269,12 @@ export const NavData: NavData[] = [
         desc: "体验还不错的交易所，短暂支持国内认证！",
         link: "https://www.bybit.com/invite?ref=VPXW4ZN",
       },
+      {
+        icon: "/icons/kraken.jpg",
+        title: "Kraken",
+        desc: "支持法币、信用卡的美国交易所，交易界面很单一。",
+        link: "https://pro.kraken.com/",
+      },
     ],
   },
   {
@@ -309,6 +315,12 @@ export const NavData: NavData[] = [
         title: "Solidity 指南",
         desc: "一份高质量以太坊开发教程",
         link: "https://github.com/dukedaily/solidity-expert",
+      },
+      {
+        icon: "/icons/aptos.jpg",
+        title: "Aptos 指南",
+        desc: "Aptos的社区文档",
+        link: "https://aptos.guide/zh",
       },
       {
         icon: "/icons/solidity.svg",
@@ -391,6 +403,12 @@ export const NavData: NavData[] = [
         desc: "亚太地区最大的WEB3招聘平台之一",
         icon: "/icons/dejob.jpeg",
         link: "https://www.dejob.top/",
+      },
+      {
+        title: "Bondex",
+        desc: "Web3 人才市场，通过提供游戏化体验和代币化奖励，或许会改变传统招聘模式。",
+        icon: "/icons/bondex.jpg",
+        link: "https://bondex.app/",
       },
       {
         title: "Remotive",
