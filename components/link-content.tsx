@@ -60,14 +60,26 @@ export function LinkContent() {
         <div className="mb-12">
           <div className="my-4">
             <h1 className="mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
-              更多加密货币内容，请通过视频学习！！！
+              更多内容，请通过ibuidl课程进行学习！！！
             </h1>
+            <Link
+              href="https://www.notion.so/indiebuidl/ibuidl-1V1-40619dcae37a4d74970b9fd708838092"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <p className="mb-2 text-xl font-bold text-blue-900 sm:text-2xl">
+                访问最佳指南手册
+              </p>
+            </Link>
           </div>
           <div>
+            <h1 className="mt-5 mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
+              查看通识课概览
+            </h1>
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/CROkruTahjY?si=4pfM-f2QaVpSNvYV"
+              src="https://www.youtube.com/embed/3ZIcsAK6xek?si=K8LGlwu6RO1qWdM3"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             ></iframe>

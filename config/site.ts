@@ -1,12 +1,17 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "加密货币最全导航",
-  description: "基于 Next.js 的加密货币导航",
-  mainNav: [],
+  name: "加密货币和开发者最信任的导航",
+  description: "最全的加密货币导航，最好的加密货币开发导航",
+  mainNav: [
+    {
+      title: "iBuidl",
+      href: "/",
+    },
+  ],
   links: {
-    twitter: "https://twitter.com/0xkkdemian",
-    github: "https://github.com/chuhemiao/next-web-nav",
+    twitter: "https://twitter.com/ibuidl_2024",
+    github: "https://github.com/ibuidl/tool-ibuidl",
   },
 }
 
@@ -65,6 +70,12 @@ export const NavData: NavData[] = [
         title: "萨姆规则衰退指标",
         desc: "当失业率的3个月平均值上升到过去12个月的最低值之上0.50个百分点时，就被认为是经济衰退的可能信号。",
         link: "https://fred.stlouisfed.org/series/SAHMCURRENT",
+      },
+      {
+        icon: "/icons/ibuidl.png",
+        title: "Web2快速转型Web3",
+        desc: "90天，成为一个数字游民，web2 到 web3 的蜕变。",
+        link: "https://www.ibuidl.org/zh",
       },
       {
         icon: "/icons/golden.jpg",

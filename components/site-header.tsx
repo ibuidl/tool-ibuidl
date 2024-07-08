@@ -10,6 +10,7 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 w-full bg-background dark:border-slate-50/[0.06] lg:border-b lg:border-slate-900/10">
       <div className="container flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0">
+        <img src="/logo.png" width={45} height={45} />
         <MainNav items={siteConfig.mainNav} />
         <div className="flex flex-1 items-center justify-end space-x-4">
           <nav className="flex items-center space-x-1">
