@@ -36,6 +36,18 @@ export const NavData: NavData[] = [
     title: "常用工具",
     items: [
       {
+        icon: "/icons/ibuidl.png",
+        title: "Web2快速转型Web3",
+        desc: "90天，成为一个数字游民，web2 到 web3 的蜕变。",
+        link: "https://www.ibuidl.org/zh",
+      },
+      {
+        icon: "/icons/blockjob.jpg",
+        title: "Block Job",
+        desc: "Web3招聘、找工作，Block Job更快更精准！",
+        link: "https://x.com/blockjob2022?s=21",
+      },
+      {
         icon: "https://crypto-fundraising.info/wp-content/themes/ico/img/cf-logo.svg",
         title: "Crypto Fundraising",
         desc: "加密货币融资平台",
@@ -71,12 +83,7 @@ export const NavData: NavData[] = [
         desc: "当失业率的3个月平均值上升到过去12个月的最低值之上0.50个百分点时，就被认为是经济衰退的可能信号。",
         link: "https://fred.stlouisfed.org/series/SAHMCURRENT",
       },
-      {
-        icon: "/icons/ibuidl.png",
-        title: "Web2快速转型Web3",
-        desc: "90天，成为一个数字游民，web2 到 web3 的蜕变。",
-        link: "https://www.ibuidl.org/zh",
-      },
+
       {
         icon: "/icons/golden.jpg",
         title: "Golden",
