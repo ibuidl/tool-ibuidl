@@ -60,10 +60,10 @@ export function LinkContent() {
         <div className="mb-12">
           <div className="my-4">
             <h1 className="mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
-              更多内容，请通过ibuidl课程进行学习！！！
+              更多内容，请通过ibuidl技术课程进行学习，涵盖Solana、ICP、Solidity等公链合约开发。
             </h1>
             <Link
-              href="https://www.notion.so/indiebuidl/ibuidl-1V1-40619dcae37a4d74970b9fd708838092"
+              href="https://gcn2uy4s0f5x.feishu.cn/wiki/WXOwwrAOxiRncKk42Jccgd34nn3"
               target="_blank"
               rel="noreferrer"
             >
