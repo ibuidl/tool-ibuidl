@@ -51,7 +51,7 @@ export const NavData: NavData[] = [
         icon: "/icons/seasmm.jpg",
         title: "SeaSMM",
         desc: "SeaSMM 提供优质的社交媒体营销服务，帮助提升您的线上影响力",
-        link: "www.seasmm.com",
+        link: "https://www.seasmm.com",
       },
       {
         icon: "https://crypto-fundraising.info/wp-content/themes/ico/img/cf-logo.svg",
