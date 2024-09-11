@@ -692,6 +692,12 @@ export const NavData: NavData[] = [
         link: "https://www.paradigm.xyz/writing",
       },
       {
+        title: "Commonpre Fix",
+        desc: "一支由科学家和工程师组成的团队，致力于研究和实施区块链协议。",
+        icon: "/icons/commonprefix.jpg",
+        link: "https://www.commonprefix.com/research",
+      },
+      {
         title: "V神",
         desc: "ETH的创始人，币圈大佬，通过文章寻找财富密码。",
         icon: "/icons/vitalik.jpeg",
