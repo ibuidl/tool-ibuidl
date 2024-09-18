@@ -692,6 +692,12 @@ export const NavData: NavData[] = [
         link: "https://www.paradigm.xyz/writing",
       },
       {
+        title: "Anoma",
+        desc: "是一个以意图为中心的隐私架构，引入了构建基础设施层的新范例和用于去中心化应用程序的新操作系统。",
+        icon: "/icons/anoma.jpg",
+        link: "https://anoma.net/research",
+      },
+      {
         title: "Commonpre Fix",
         desc: "一支由科学家和工程师组成的团队，致力于研究和实施区块链协议。",
         icon: "/icons/commonprefix.jpg",
