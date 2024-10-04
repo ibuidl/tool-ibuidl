@@ -576,6 +576,30 @@ export const NavData: NavData[] = [
         icon: "/icons/pepe.jpeg",
         link: "https://www.pepe.vip/",
       },
+      {
+        title: "Dexscreener",
+        desc: "冲土狗的链上聚合工具，支持多数公链。",
+        icon: "/icons/dexscreener.jpg",
+        link: "https://dexscreener.com/",
+      },
+      {
+        title: "Moo Deng",
+        desc: "网红河马meme，基于Sol。",
+        icon: "/icons/moodengsol.jpg",
+        link: "https://www.moodengsol.com/",
+      },
+      {
+        title: "Degen",
+        desc: "Base和Farcaster生态的meme打赏币，等社交崛起或许是百倍meme之一。",
+        icon: "/icons/degen.jpg",
+        link: "https://www.degen.tips/",
+      },
+      {
+        title: "Snek",
+        desc: "Snek 是一种文化运动，也是全球模因创作者的主要货币,ada生态的meme代币。",
+        icon: "/icons/snek.jpg",
+        link: "https://www.snek.com/",
+      },
     ],
   },
   {
@@ -696,6 +720,18 @@ export const NavData: NavData[] = [
         desc: "是一个以意图为中心的隐私架构，引入了构建基础设施层的新范例和用于去中心化应用程序的新操作系统。",
         icon: "/icons/anoma.jpg",
         link: "https://anoma.net/research",
+      },
+      {
+        title: "Paul Graham",
+        desc: "与 Jessica Livingston、Robert Morris 和 Trevor Blackwell创办了Y Combinator，这是第一家新型初创企业孵化器。自 2005 年以来，Y Combinator 已资助了 3000 多家初创企业，包括 Airbnb、Dropbox、Stripe 和 Reddit。",
+        icon: "/icons/paulgraham.jpg",
+        link: "https://www.paulgraham.com/articles.html",
+      },
+      {
+        title: "网络国家",
+        desc: "通过crypto创造一个基于互联网的国家。",
+        icon: "/icons/statenetwork.jpg",
+        link: "https://thenetworkstate.com/",
       },
       {
         title: "Commonpre Fix",
