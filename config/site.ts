@@ -152,7 +152,7 @@ export const NavData: NavData[] = [
       },
       {
         icon: "/icons/bubblemaps.png",
-        title: "EVM和SOL系列的链上数据",
+        title: "可视化数据，EVM和SOL系列的链上数据",
         desc: "支持以泡泡的形式连接每一个巨鲸，是etherscan的持仓排行的另一种。",
         link: "https://app.bubblemaps.io/eth/",
       },
@@ -221,6 +221,12 @@ export const NavData: NavData[] = [
         title: "币圈百宝箱",
         desc: "一个快速查询项目的工具，非常丰富的资料库，包含：公链、空投交互、项目任务、铭文等",
         link: "https://docs.google.com/spreadsheets/u/0/d/1WWqbgh6_Ph9nOu23OWACPD4VyuJmLZNNpK0zp9yRmQY/htmlview?pli=1#",
+      },
+      {
+        icon: "/icons/arkham.jpeg",
+        title: "Arkham",
+        desc: "链上智能工具，交易、资金、交易所、关注跟踪聪明资金等",
+        link: "https://platform.arkhamintelligence.com/",
       },
       {
         icon: "/icons/sms.png",
