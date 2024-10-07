@@ -223,7 +223,7 @@ export const NavData: NavData[] = [
         link: "https://docs.google.com/spreadsheets/u/0/d/1WWqbgh6_Ph9nOu23OWACPD4VyuJmLZNNpK0zp9yRmQY/htmlview?pli=1#",
       },
       {
-        icon: "/icons/arkham.jpeg",
+        icon: "/icons/arkham.jpg",
         title: "Arkham",
         desc: "链上智能工具，交易、资金、交易所、关注跟踪聪明资金等",
         link: "https://platform.arkhamintelligence.com/",
