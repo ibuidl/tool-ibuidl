@@ -379,6 +379,59 @@ export const NavData: NavData[] = [
     ],
   },
   {
+    title: "DeFi",
+    items: [
+      {
+        icon: "/icons/aerodrome.jpg",
+        title: "Aerodrome - Base",
+        desc: "Base生态最大的去中心化交易所。",
+        link: "https://aerodrome.finance/",
+      },
+      {
+        icon: "/icons/suilend.png",
+        title: "Suilend",
+        desc: "SUI生态的借贷和Dex",
+        link: "https://suilend.fi/swap/SUI-USDC",
+      },
+      {
+        icon: "/icons/uniswap.jpg",
+        title: "Uniswap",
+        desc: "最早的去中心化交易所，兼容多数EVM链，意图框架的先行者。",
+        link: "https://app.uniswap.org/",
+      },
+      {
+        icon: "/icons/openeden.jpg",
+        title: "openeden",
+        desc: "合规第一，RWA的先行者，亚洲、欧洲国债与稳定收益。",
+        link: "https://openeden.com/",
+      },
+      {
+        icon: "/icons/redstone.png",
+        title: "Redstone",
+        desc: "新型预言机，已经被多数DeFi平台使用。",
+        link: "https://redstone.finance/",
+      },
+      {
+        icon: "/icons/morpho.jpg",
+        title: "Morpho",
+        desc: "有创新的去中心化借贷协议，聚合多数资产和平台。",
+        link: "https://app.morpho.org/?network=mainnet",
+      },
+      {
+        icon: "/icons/drift.png",
+        title: "Drift",
+        desc: "是一个去中心化交易所，基于Sol的链上期权、预测、合约平台。",
+        link: "https://www.drift.trade/",
+      },
+      {
+        icon: "/icons/meteora.jpg",
+        title: "Meteora",
+        desc: "加密货币领域最好的 LP 技术和 LP 大军",
+        link: "https://app.meteora.ag/",
+      },
+    ],
+  },
+  {
     title: "前端和合约开发",
     items: [
       {
@@ -698,6 +751,12 @@ export const NavData: NavData[] = [
         desc: "Focus 是一种新型社交网络，融合了加密货币投机、社交媒体和生成人工智能。",
         icon: "/icons/focus.jpg",
         link: "https://focus.xyz/",
+      },
+      {
+        title: "Arena",
+        desc: "avax上的SocialFi，模式有点像FT，接入推特登陆。",
+        icon: "/icons/arena.jpg",
+        link: "https://arena.social",
       },
     ],
   },
