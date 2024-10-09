@@ -810,7 +810,6 @@ export const NavData: NavData[] = [
         icon: "/icons/vitalik.jpeg",
         link: "https://vitalik.eth.limo/",
       },
-      //
       {
         title: "Chris Dixon",
         desc: "A16Z顶级合伙人, 读、写、拥有此书的作者，web3忠实拥护者。",
@@ -840,6 +839,30 @@ export const NavData: NavData[] = [
         desc: "glassnode的研究报告，通过研报观察趋势和寻找新币的机会。",
         icon: "/icons/glassnode.jpeg",
         link: "https://insights.glassnode.com/",
+      },
+      {
+        title: "Multicoin Writing",
+        desc: "multicoin 的写作，投研、项目、热点趋势。",
+        icon: "/icons/multicoin.jpg",
+        link: "https://multicoin.capital/writing/",
+      },
+      {
+        title: "Panteracapital 的行业洞察",
+        desc: "Panteracapital 的行业观察，项目研究、合规和趋势。",
+        icon: "/icons/panteracapital.png",
+        link: "https://panteracapital.com/insights/",
+      },
+      {
+        title: "Nickgrossman",
+        desc: "尼克·格罗斯曼是 Union Square Ventures 的合伙人。。",
+        icon: "/icons/nickgrossman.jpg",
+        link: "https://nickgrossman.xyz/",
+      },
+      {
+        title: "USV",
+        desc: "Union Square Ventures是一家位于纽约市的小型合伙企业。他们是综合型投资者，涉足多个行业和技术领域，但对如何把握变革性机遇有着一致的看法。 ",
+        icon: "/icons/usv.jpg",
+        link: "https://www.usv.com/writing/",
       },
     ],
   },
