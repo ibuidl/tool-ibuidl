@@ -138,6 +138,30 @@ export const NavData: NavData[] = [
         desc: "dapp数据大全，游戏，NFT，热门合约等",
         link: "https://dappradar.com/rankings",
       },
+      {
+        icon: "/icons/coinmarketcal.jpg",
+        title: "coinmarketcal",
+        desc: "加密资产的经济日历，使用户能够跟踪关键市场事件",
+        link: "https://coinmarketcal.com/en/",
+      },
+      {
+        icon: "/icons/alphascan.jpg",
+        title: "alphascan",
+        desc: "监测特定 Token 的情绪， X 上对币种和meme Token 的提及的热度排行。",
+        link: "https://app.alphascan.xyz/twitter-token-view",
+      },
+      {
+        icon: "/icons/0xscope.jpg",
+        title: "0xscope Scan",
+        desc: "钱包、项目、token的观察者，链上数据分析平台。",
+        link: "https://scan.0xscope.com/address?network=eth",
+      },
+      {
+        icon: "/icons/alphanomics.jpg",
+        title: "Alphanomics",
+        desc: "洞察数据，以发掘新的非对称机会，跟踪最聪明的交易者和钱包的策略",
+        link: "https://platform.alphanomics.io/",
+      },
     ],
   },
 
@@ -854,9 +878,15 @@ export const NavData: NavData[] = [
       },
       {
         title: "Nickgrossman",
-        desc: "尼克·格罗斯曼是 Union Square Ventures 的合伙人。。",
+        desc: "尼克·格罗斯曼是 Union Square Ventures 的合伙人。",
         icon: "/icons/nickgrossman.jpg",
         link: "https://nickgrossman.xyz/",
+      },
+      {
+        title: "Steakhouse",
+        desc: "稳定币和 DeFi领域的先驱者。",
+        icon: "/icons/steakhouse.jpg",
+        link: "https://www.steakhouse.financial/work",
       },
       {
         title: "USV",
@@ -946,6 +976,13 @@ export const NavData: NavData[] = [
         title: "白总的加密货币入门知识",
         desc: "5年前写的文档和一些币圈指南，所言仅为偏见，仅供参考。",
         link: "https://wiki.kkdemian.com/",
+      },
+
+      {
+        icon: "/icons/cryptopanic.jpg",
+        title: "cryptopanic",
+        desc: "加密资产的新闻聚合平台",
+        link: "https://cryptopanic.com/",
       },
     ],
   },
