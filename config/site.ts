@@ -683,6 +683,18 @@ export const NavData: NavData[] = [
         icon: "/icons/snek.jpg",
         link: "https://www.snek.com/",
       },
+      {
+        title: "Gmgn",
+        desc: "冲土狗必备工具之一，有热点、趋势、聪明钱、链上指标等。",
+        icon: "/icons/gmgn.jpg",
+        link: "https://gmgn.ai/?ref=hsT8EgeI",
+      },
+      {
+        title: "Dexx",
+        desc: "简单、好用的土狗工具，支持移动端，有交易和热门狙击榜单。",
+        icon: "/icons/dexx.jpg",
+        link: "https://dexx.ai/refer?inviteCode=1Z2FKZ",
+      },
     ],
   },
   {
