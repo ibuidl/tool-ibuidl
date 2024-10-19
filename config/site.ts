@@ -889,6 +889,12 @@ export const NavData: NavData[] = [
         link: "https://panteracapital.com/insights/",
       },
       {
+        title: "Wintermute 的行业洞察",
+        desc: "Wintermute 的行业观察，号称加密最强做市商。",
+        icon: "/icons/wintermute.jpg",
+        link: "https://wintermute.com/insights/",
+      },
+      {
         title: "Nickgrossman",
         desc: "尼克·格罗斯曼是 Union Square Ventures 的合伙人。",
         icon: "/icons/nickgrossman.jpg",
