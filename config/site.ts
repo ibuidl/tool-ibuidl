@@ -12,6 +12,7 @@ export const siteConfig = {
   links: {
     twitter: "https://twitter.com/ibuidl_2024",
     github: "https://github.com/ibuidl/tool-ibuidl",
+    linktree: "https://linktr.ee/ibuidl",
   },
 }
 
@@ -42,6 +43,12 @@ export const NavData: NavData[] = [
         link: "https://www.ibuidl.org/zh",
       },
       {
+        icon: "/icons/ibuidl.png",
+        title: "加入游民社区",
+        desc: "90天，成为一个数字游民，web2 到 web3 的蜕变。",
+        link: "https://blog.ibuidl.org/",
+      },
+      {
         icon: "/icons/blockjob.jpg",
         title: "Block Job",
         desc: "Web3招聘、找工作，Block Job更快更精准！",
@@ -52,6 +59,12 @@ export const NavData: NavData[] = [
         title: "SeaSMM",
         desc: "SeaSMM 提供优质的社交媒体营销服务，帮助提升您的线上影响力",
         link: "https://www.seasmm.com",
+      },
+      {
+        icon: "/icons/ibuidl.png",
+        title: "Solana面试指南",
+        desc: "Solana基础和高级常见面试题。",
+        link: "https://wiki.ibuidl.org/zh/sol_interview",
       },
       {
         icon: "https://crypto-fundraising.info/wp-content/themes/ico/img/cf-logo.svg",
@@ -821,6 +834,12 @@ export const NavData: NavData[] = [
         desc: "是一个以意图为中心的隐私架构，引入了构建基础设施层的新范例和用于去中心化应用程序的新操作系统。",
         icon: "/icons/anoma.jpg",
         link: "https://anoma.net/research",
+      },
+      {
+        icon: "/icons/ibuidl.png",
+        title: "IB wiki百科全书",
+        desc: "加密货币基础知识和常见Web3术语",
+        link: "https://wiki.ibuidl.org/zh/introduction",
       },
       {
         title: "Paul Graham",

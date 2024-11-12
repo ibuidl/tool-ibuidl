@@ -68,11 +68,60 @@ export function LinkContent() {
               rel="noreferrer"
             >
               <p className="mb-2 text-xl font-bold text-blue-900 sm:text-2xl">
-                访问最佳指南手册
+                访问技术课程最佳指南手册
+              </p>
+            </Link>
+
+            <h2 className="mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
+              更多内容，请通过ibuidl运营课程进行学习，从0到1实现上岸。
+            </h2>
+
+            <Link
+              href="https://gcn2uy4s0f5x.feishu.cn/wiki/Wa9uwIhrBiC8fgkeO3WccG6snFg"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <p className="mb-2 text-xl font-bold text-blue-900 sm:text-2xl">
+                访问运营课程最佳指南手册
+              </p>
+            </Link>
+            <h2 className="mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
+              更多内容，请通过ibuidl产品课程进行学习，从0到1实现上岸。
+            </h2>
+            <Link
+              href="https://gcn2uy4s0f5x.feishu.cn/docx/LksXdxiGyolWG5xZTpmcH2cZnUb"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <p className="mb-2 text-xl font-bold text-blue-900 sm:text-2xl">
+                访问产品课程最佳指南手册
+              </p>
+            </Link>
+            <h2 className="mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
+              了解远程工作和数字游民
+            </h2>
+            <Link
+              href="https://blog.ibuidl.org/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <p className="mb-2 text-xl font-bold text-blue-900 sm:text-2xl">
+                访问数字游民社区
               </p>
             </Link>
           </div>
           <div>
+            <h1 className="mt-5 mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
+              Ibuidl 课程概览
+            </h1>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/_Axvw81c_jQ?si=J3rE_nHc4Y5MlM2k"
+              title="YouTube video player"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            ></iframe>
+
             <h1 className="mt-5 mb-2 text-2xl font-bold text-primary/80 sm:text-3xl">
               查看通识课概览
             </h1>
