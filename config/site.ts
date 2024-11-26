@@ -140,6 +140,12 @@ export const NavData: NavData[] = [
         link: "https://www.theblock.co/data/crypto-markets/spot",
       },
       {
+        icon: "/icons/vybe.png",
+        title: "Solana 网络链上数据跟踪",
+        desc: "单个程序与周活跃度，通过观察用户数据和代码使用，了解当前热度。",
+        link: "https://alpha.vybenetwork.com/",
+      },
+      {
         icon: "/icons/defillama.jpeg",
         title: "Defillama",
         desc: "Defi数据大全",
@@ -882,6 +888,12 @@ export const NavData: NavData[] = [
         desc: "A16Z旗下的内容平台，用来书写行业趋势以及投资标的的研究等。",
         icon: "/icons/future.jpeg",
         link: "https://future.com/",
+      },
+      {
+        title: "A16Z 的 Newsletter",
+        desc: "A16Z的加密周报和行业输出。",
+        icon: "/icons/future.jpeg",
+        link: "https://a16zcrypto.substack.com/",
       },
       {
         title: "Varun Srinivasan",
