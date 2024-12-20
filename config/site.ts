@@ -902,6 +902,12 @@ export const NavData: NavData[] = [
         link: "https://www.varunsrinivasan.com/writing/",
       },
       {
+        title: "Vaneck",
+        desc: "首批为投资者提供国际市场投资机会的美国资产管理公司之一，并很早就认识到黄金投资、新兴市场、ETF和数字资产的变革潜力。",
+        icon: "/icons/vaneck.jpg",
+        link: "https://www.vaneck.com/us/en/insights/digital-assets/?p=1",
+      },
+      {
         title: "Glassnode",
         desc: "glassnode的研究报告，通过研报观察趋势和寻找新币的机会。",
         icon: "/icons/glassnode.jpeg",
