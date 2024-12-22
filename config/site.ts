@@ -548,6 +548,13 @@ export const NavData: NavData[] = [
         icon: "/icons/alchemy.png",
         link: "https://www.alchemy.com/faucets/ethereum-sepolia",
       },
+      //
+      {
+        title: "Chain Link（Base、OP、ARB、Stark）",
+        desc: "最早的预言机提供的水龙头服务，基本涵盖了所有EVM链。",
+        icon: "/icons/chainlink.jpg",
+        link: "https://faucets.chain.link/",
+      },
       {
         title: "以太坊 API 端点",
         desc: "后起之秀，提供多链的服务商，一些项目初期会提供大部分节点，有RPC和API服务。",
