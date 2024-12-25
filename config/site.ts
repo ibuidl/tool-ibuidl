@@ -933,6 +933,12 @@ export const NavData: NavData[] = [
         link: "https://panteracapital.com/insights/",
       },
       {
+        title: "投资者和建设者提供加密货币研究",
+        desc: "老牌研究机构，18年开始，研究内容涵盖各个板块，需付费。",
+        icon: "/icons/delphidigital.png",
+        link: "https://members.delphidigital.io/search?type=report",
+      },
+      {
         title: "Wintermute 的行业洞察",
         desc: "Wintermute 的行业观察，号称加密最强做市商。",
         icon: "/icons/wintermute.jpg",
