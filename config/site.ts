@@ -67,6 +67,12 @@ export const NavData: NavData[] = [
         link: "https://wiki.ibuidl.org/zh/sol_interview",
       },
       {
+        title: "Cookie",
+        desc: "加密ai agent的看板，了解ai在加密货币中的趋势和热点。",
+        icon: "/icons/cookie.jpeg",
+        link: "https://www.cookie.fun/",
+      },
+      {
         icon: "https://crypto-fundraising.info/wp-content/themes/ico/img/cf-logo.svg",
         title: "Crypto Fundraising",
         desc: "加密货币融资平台",
@@ -830,6 +836,12 @@ export const NavData: NavData[] = [
         desc: "一款用于 AI 驱动的 Web3 趋势跟踪和智能交易的一体化平台。",
         icon: "/icons/trendx.jpeg",
         link: "https://app.trendx.tech/",
+      },
+      {
+        title: "Cookie",
+        desc: "加密ai agent的看板，了解ai在加密货币中的趋势和热点。",
+        icon: "/icons/cookie.jpeg",
+        link: "https://www.cookie.fun/",
       },
     ],
   },
