@@ -85,6 +85,12 @@ export const NavData: NavData[] = [
         link: "https://coinmarketcap.com/",
       },
       {
+        icon: "/icons/kaito.jpg",
+        title: "Yaps Kaito",
+        desc: "市场情绪和趋势观察，VC、AI agent、加密领域KOL在X的影响力。",
+        link: "https://yaps.kaito.ai",
+      },
+      {
         icon: "/icons/cmc.jpeg",
         title: "coinmarkets Today",
         desc: "以柱状图的形式展示每日加密货币行情涨跌排行",
