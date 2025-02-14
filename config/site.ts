@@ -852,6 +852,29 @@ export const NavData: NavData[] = [
     ],
   },
   {
+    title: "ETFs",
+    items: [
+      {
+        title: "Glam",
+        desc: "GLAM 是一种去中心化资产管理协议，可解锁 DeFi 的可组合性并为 Solana 上的投资者赋能。",
+        icon: "/icons/glam.jpg",
+        link: "https://www.glam.systems/",
+      },
+      {
+        title: "Sosovalue",
+        desc: "SoSoValue 是一个由人工智能驱动的投资和研究平台，它将CeFi 的效率与DeFi的透明度相结合。它解决了加密货币市场投资者面临的关键挑战，在该市场中，信息的快速扩张和各个区块链生态系统中代币的激增，往往使投资者难以有效地导航和管理其投资组合，从而实现可持续的财富管理。",
+        icon: "/icons/sosovalue.jpg",
+        link: "https://sosovalue.com",
+      },
+      {
+        title: "Vaderai",
+        desc: "VaderAI是一家领先的人工智能代理，旨在成为代理经济的贝莱德 (BlackRock )",
+        icon: "/icons/vaderai.jpg",
+        link: "https://vaderai.ai/",
+      },
+    ],
+  },
+  {
     title: "优质作家",
     items: [
       {
