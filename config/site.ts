@@ -532,6 +532,12 @@ export const NavData: NavData[] = [
         link: "https://aptos.guide/zh",
       },
       {
+        icon: "/icons/coincodex.jpg",
+        title: "Coincodex api市场行情",
+        desc: "coincodex 是一个比较完整的加密货币市场行情平台，包括实时货币价格、图表和加密货币市值，涵盖 400 多个交易所和29,000 多种加密token。",
+        link: "https://coincodex.com/page/api/",
+      },
+      {
         icon: "/icons/solidity.svg",
         title: "Solidity 官方文档",
         desc: "学习Solidity 从0到1的最佳指南",
