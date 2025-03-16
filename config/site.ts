@@ -69,7 +69,7 @@ export const NavData: NavData[] = [
       {
         title: "Cookie",
         desc: "加密ai agent的看板，了解ai在加密货币中的趋势和热点。",
-        icon: "/icons/cookie.jpeg",
+        icon: "/icons/cookie.png",
         link: "https://www.cookie.fun/",
       },
       {
@@ -83,6 +83,24 @@ export const NavData: NavData[] = [
         title: "CMC",
         desc: "最大的加密资产价格跟踪网站",
         link: "https://coinmarketcap.com/",
+      },
+      {
+        icon: "/icons/coingecko.jpeg",
+        title: "加密货币数据追踪",
+        desc: "和CMC相比，coingecko会细分更多领域和标签",
+        link: "https://www.coingecko.com/",
+      },
+      {
+        icon: "/icons/range.jpg",
+        title: "Range",
+        desc: "区块链安全与情报平台",
+        link: "https://app.range.org/overview",
+      },
+      {
+        icon: "/icons/bluechip.jpg",
+        title: "bluechip",
+        desc: "稳定币分析和评级平台",
+        link: "https://bluechip.org/",
       },
       {
         icon: "/icons/kaito.jpg",
@@ -852,7 +870,7 @@ export const NavData: NavData[] = [
       {
         title: "Cookie",
         desc: "加密ai agent的看板，了解ai在加密货币中的趋势和热点。",
-        icon: "/icons/cookie.jpeg",
+        icon: "/icons/cookie.png",
         link: "https://www.cookie.fun/",
       },
     ],
