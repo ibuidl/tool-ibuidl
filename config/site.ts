@@ -55,10 +55,10 @@ export const NavData: NavData[] = [
         link: "https://x.com/blockjob2022",
       },
       {
-        icon: "/icons/seasmm.jpg",
-        title: "SeaSMM",
-        desc: "SeaSMM 提供优质的社交媒体营销服务，帮助提升您的线上影响力",
-        link: "https://www.seasmm.com",
+        icon: "/icons/web3serves.jpg",
+        title: "Web3serves",
+        desc: "最便宜的社交媒体营销服务 | Instagram, YouTube, Twitter粉丝购买",
+        link: "https://web3serves.com/services",
       },
       {
         icon: "/icons/ibuidl.png",
