@@ -461,6 +461,12 @@ export const NavData: NavData[] = [
         link: "https://aerodrome.finance/",
       },
       {
+        icon: "/icons/defisaver.jpg",
+        title: "Defisaver",
+        desc: "高级Defi管理工具",
+        link: "https://app.defisaver.com/",
+      },
+      {
         icon: "/icons/suilend.png",
         title: "Suilend",
         desc: "SUI生态的借贷和Dex",
@@ -1102,13 +1108,19 @@ export const NavData: NavData[] = [
         icon: "/icons/avator.jpg",
         title: "白总的加密货币周报",
         desc: "加密新闻扫盲，了解一些加密货币的最新趋势和寻找百倍密码的渠道。",
-        link: "https://weekly.kkdemian.com/",
+        link: "https://0xkkdemian.notion.site/",
       },
       {
         icon: "/icons/avator.jpg",
         title: "白总的加密货币入门知识",
         desc: "5年前写的文档和一些币圈指南，所言仅为偏见，仅供参考。",
         link: "https://wiki.kkdemian.com/",
+      },
+      {
+        icon: "/icons/avator.jpg",
+        title: "加密大师的进阶指南与思考",
+        desc: "2025新写的加密货币和 Web3 内容与思考。",
+        link: "https://book.kkdemian.com/",
       },
 
       {
