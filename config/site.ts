@@ -164,6 +164,14 @@ export const NavData: NavData[] = [
         link: "https://app.artemis.xyz/chains",
       },
       {
+        icon: "/icons/ratedw.jpg",
+        title:
+          "Sol、ETH节点运营商绩效、奖励和元数据，企业级数据管道支持，支持api服务。",
+        desc: "Rated Labs 是 Rated 背后的开发者，由@eliasimos和@ariskkol于 2022 年创立。成立两年来，我们已将网络浏览器和 API 打造成为行业标杆，并深受众多 Web3 生态系统运营商的喜爱。",
+        link: "https://explorer.rated.network/",
+      },
+
+      {
         icon: "/icons/theblock.jpeg",
         title: "比特币期货期权",
         desc: "稳定币，合约链上交易数据平台",
@@ -272,6 +280,12 @@ export const NavData: NavData[] = [
         link: "https://www.binance.com/en/research/analysis",
       },
       {
+        icon: "/icons/21shares.jpg",
+        title: "21shares",
+        desc: "dune每个公链的关键指标，研究报告，市场更新，加密资产etp和etf的数据",
+        link: "https://www.21shares.com/en-eu/insights",
+      },
+      {
         icon: "/icons/tradingview.jpeg",
         title: "tradingview",
         desc: "加密货币K线看盘最佳工具",
@@ -365,6 +379,12 @@ export const NavData: NavData[] = [
         title: "Solflare",
         desc: "Solana生态新晋的钱包，它可以加速你的交易。",
         link: "https://solflare.com/",
+      },
+      {
+        icon: "/icons/phantom.jpg",
+        title: "Phantom",
+        desc: "Solana生态的钱包，支持多链，大而全的钱包。",
+        link: "https://phantom.com/",
       },
       {
         icon: "/icons/trustwallet.png",
