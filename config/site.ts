@@ -165,9 +165,8 @@ export const NavData: NavData[] = [
       },
       {
         icon: "/icons/ratedw.jpg",
-        title:
-          "Sol、ETH节点运营商绩效、奖励和元数据，企业级数据管道支持，支持api服务。",
-        desc: "Rated Labs 是 Rated 背后的开发者，由@eliasimos和@ariskkol于 2022 年创立。成立两年来，我们已将网络浏览器和 API 打造成为行业标杆，并深受众多 Web3 生态系统运营商的喜爱。",
+        title: "Sol、ETH节点运营商绩效、奖励和元数据。",
+        desc: "Rated Labs 是 Rated 背后的开发者，由@eliasimos和@ariskkol于 2022 年创立。成立两年来，我们已将网络浏览器和 API 打造成为行业标杆和企业级数据管道支持，并深受众多 Web3 生态系统运营商的喜爱。",
         link: "https://explorer.rated.network/",
       },
 
@@ -387,10 +386,10 @@ export const NavData: NavData[] = [
         link: "https://phantom.com/",
       },
       {
-        icon: "/icons/trustwallet.png",
-        title: "Trust Wallet",
-        desc: "支持多链，可信度高，🔐。曾经开源领域最好的纸钱包，目前被binance收购。",
-        link: "https://trustwallet.com/",
+        icon: "/icons/okxwallet.jpg",
+        title: "Okx Wallet",
+        desc: "支持多链，以及各种热度土狗、铭文、符文，产品力和体验交易所第一，可信度高。",
+        link: "https://web3.okx.com/zh-hans",
       },
       {
         icon: "/icons/safe.jpg",
@@ -570,6 +569,12 @@ export const NavData: NavData[] = [
         link: "https://github.com/dukedaily/solidity-expert",
       },
       {
+        icon: "/icons/solidity.svg",
+        title: "Ethereum 指南",
+        desc: "最好的以太坊指南，官方学习文档。",
+        link: "https://ethereum.org/en/learn/",
+      },
+      {
         icon: "/icons/aptos.jpg",
         title: "Aptos 指南",
         desc: "Aptos的社区文档",
@@ -602,7 +607,7 @@ export const NavData: NavData[] = [
     ],
   },
   {
-    title: "水龙头🚰",
+    title: "水龙头🚰 与 RPC 节点",
     items: [
       {
         title: "Ethereum Sepolia（Base、OP、ARB、Stark）",
@@ -610,7 +615,6 @@ export const NavData: NavData[] = [
         icon: "/icons/alchemy.png",
         link: "https://www.alchemy.com/faucets/ethereum-sepolia",
       },
-      //
       {
         title: "Chain Link（Base、OP、ARB、Stark）",
         desc: "最早的预言机提供的水龙头服务，基本涵盖了所有EVM链。",
@@ -622,6 +626,18 @@ export const NavData: NavData[] = [
         desc: "后起之秀，提供多链的服务商，一些项目初期会提供大部分节点，有RPC和API服务。",
         icon: "/icons/blockpi.jpeg",
         link: "https://blockpi.io/",
+      },
+      {
+        title: "以太坊 Solana RPC服务",
+        desc: "背靠蚂蚁，免费额度大，支持的链比较全，适合做测试。",
+        icon: "/icons/zantop.jpg",
+        link: "https://zan.top/",
+      },
+      {
+        title: "Helius， Solana RPC服务",
+        desc: "Solana 最老牌、最大、最稳定的RPC服务商，除了贵没啥毛病，可以开多号。",
+        icon: "/icons/helius.jpg",
+        link: "https://dashboard.helius.dev/",
       },
       {
         title: "Quicknode",
@@ -944,6 +960,12 @@ export const NavData: NavData[] = [
         title: "IB wiki百科全书",
         desc: "加密货币基础知识和常见Web3术语",
         link: "https://wiki.ibuidl.org/zh/introduction",
+      },
+      {
+        icon: "/icons/ibuidl.png",
+        title: "IB Solana面试",
+        desc: "最常见的Solana面试题以及解答",
+        link: "https://wiki.ibuidl.org/zh/sol_interview",
       },
       {
         title: "Paul Graham",
