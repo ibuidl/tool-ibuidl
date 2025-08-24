@@ -195,6 +195,12 @@ export const NavData: NavData[] = [
         link: "https://dappradar.com/rankings",
       },
       {
+        icon: "/icons/cryptologoscc.jpg",
+        title: "Cryptologos",
+        desc: "全网最全的Web3 logo资源平台",
+        link: "https://cryptologos.cc/",
+      },
+      {
         icon: "/icons/coinmarketcal.jpg",
         title: "coinmarketcal",
         desc: "加密资产的经济日历，使用户能够跟踪关键市场事件",
@@ -338,6 +344,30 @@ export const NavData: NavData[] = [
         title: "加密货币合约数据",
         desc: "加密衍生品数据分析平台，包含比特币期权、交易所资金费率等",
         link: "https://www.coinglass.com/zh",
+      },
+      {
+        icon: "/icons/superchain.webp",
+        title: "每月Superchain 数据追踪",
+        desc: "涵盖全网L2的数据，比如base、unichain、op、world、zora、bob主流L2的用户Gas、交易量、收入等",
+        link: "https://app.hex.tech/61bffa12-d60b-484c-80b9-14265e268538/app/Supercharts-Monthly-Superchain-Metrics-PUBLIC-55tuCeO5kdMfpIbe62h5lQ/latest",
+      },
+      {
+        icon: "/icons/blockworks.jpg",
+        title: "Solana 链上数据追踪",
+        desc: "Onchain metrics, activity and charts for Solana.",
+        link: "https://blockworks.co/analytics/solana?dashboard=sol-dex",
+      },
+      {
+        icon: "/icons/stablepulse.jpg",
+        title: "Web3 链上稳定币看板",
+        desc: "稳定币供应、活跃度、转账、使用度，一个平台看懂稳定币生态和每日活跃.",
+        link: "https://www.stablepulse.org/",
+      },
+      {
+        icon: "/icons/cryptomarketmap.jpg",
+        title: "Crypto 市场地图",
+        desc: "Crypto 市场地图，一张图看懂加密有哪些板块",
+        link: "https://www.cryptomarketmap.org/",
       },
     ],
   },
